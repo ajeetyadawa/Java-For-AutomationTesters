@@ -6,7 +6,7 @@ public class BoxWeight extends Box {
 		double weight;
 BoxWeight(BoxWeight ob){
 super(ob);
-weight =ob.weight;
+//weight =ob.weight;
 	}
 
 }
