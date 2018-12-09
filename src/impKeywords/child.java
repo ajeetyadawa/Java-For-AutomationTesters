@@ -9,6 +9,11 @@ public class child {
 		this.name = name;
 		// this points to current object
 	}
+	/*child()
+	{
+		this(10,12);
+		System.out.println("No-arg constructor");
+	}*/
 	
 	public void display() {
 		System.out.println("name-->\t"+name+"Rollnum-->"+rollnum);
