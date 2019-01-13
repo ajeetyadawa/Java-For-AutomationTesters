@@ -22,7 +22,7 @@ public class student {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		student obj = new student("RICKY", 101);
+		student obj = new student("RICKY!!", 101);
 		System.out.println(obj.StudentName);
 		System.out.println(obj.rollNum);
 		

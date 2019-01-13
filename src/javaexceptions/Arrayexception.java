@@ -9,7 +9,7 @@ System.out.println("begining !!");
 i[5]=100;
 System.out.println("Ending!!");
 	} catch(Exception e) {
-		System.out.println("error occured");
+		System.out.println("error occured!!");
 	}
 	}
 }// 
