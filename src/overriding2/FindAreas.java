@@ -15,6 +15,8 @@ System.out.println("Area is "+figref.area());
 figref =f;
 System.out.println("Area is "+figref.area());
 
+System.out.println("Verification of Code commit");
+
 	}
 
 }
