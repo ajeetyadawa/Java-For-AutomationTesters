@@ -1,4 +1,4 @@
-package singleTonTest;
+package singletonTest;
 
 public class singleTon {
 

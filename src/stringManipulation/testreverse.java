@@ -1,4 +1,4 @@
-package stringManoulation;
+package stringManipulation;
 
 public class testreverse {
 
