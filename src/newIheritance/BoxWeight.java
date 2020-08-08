@@ -3,10 +3,11 @@ package newIheritance;
 public class BoxWeight extends Box {
 
 	public static void main(String[] args) {
-		double weight;
+/*		double weight;
 BoxWeight(BoxWeight ob){
 super(ob);
-//weight =ob.weight;
+weight =ob.weight;
 	}
-
+*/
+}
 }

@@ -1,7 +1,7 @@
 
 public class forLoops {
 
-	// while --> when the number of iterations are unknow
+	// while --> when the number of iterations are Unknown
 	// For --> number of iterations are known\
 	// do while --> at least one time loop need to execute
 	public static void main(String[] args) {

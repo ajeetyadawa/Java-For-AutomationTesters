@@ -1,4 +1,4 @@
-package date;
+package DateClass_Demo;
 
 public class elapsedtime {
 	public static void main(String[] args) {
