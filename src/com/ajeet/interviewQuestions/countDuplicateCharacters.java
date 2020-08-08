@@ -1,4 +1,4 @@
-package com.thoughtscoder.interviewQuestions;
+package com.ajeet.interviewQuestions;
 
 import java.util.HashMap;
 import java.util.Map;

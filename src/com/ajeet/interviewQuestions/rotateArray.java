@@ -1,4 +1,4 @@
-package com.thoughtscoder.interviewQuestions;
+package com.ajeet.interviewQuestions;
 
 public class rotateArray {
 
