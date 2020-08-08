@@ -1,8 +1,8 @@
-#Java For Automation Testers
+Java For Automation Testers
 
 
 
-##Description
+Description
 
 
 
@@ -14,14 +14,14 @@ In this repository you can find below programs:
 * Complex algorithm
 * Basic Java Programs with various approaches 
 
-###prerequisite
+prerequisite
 
 
 Java should be installed on your machine!
 
 
-###Autor: Ajeet Yadawa
+Autor: Ajeet Yadawa
 
 
-###Email: ajit091@gmail.com
+Email: ajit091@gmail.com
 [LinkedIn ](https://www.linkedin.com/in/ajeetyadawa/)
