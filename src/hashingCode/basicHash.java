@@ -14,6 +14,6 @@ static int ascii(String input, int mode) {
 	for(sum=0, i=0; i<ch.length;i++) {
 		sum += ch[i];
 	}
-	return sum % mode;
+		return sum % mode;
 }
 }

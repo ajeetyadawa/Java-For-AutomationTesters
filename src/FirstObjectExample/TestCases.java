@@ -1,6 +1,4 @@
-package package2;
-
-import FirstObjectExample.ClassA;
+package FirstObjectExample;
 
 public class TestCases {
 
@@ -8,7 +6,8 @@ public class TestCases {
 		// TODO Auto-generated method stub
 ClassA obj= new ClassA();
 obj.add();
-//ClassB obj1= new ClassB();
-
+ClassB obj1= new ClassB();
+obj1.show();
 	}
+
 }
