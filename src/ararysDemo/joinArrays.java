@@ -2,7 +2,6 @@ package ararysDemo;
 
 import java.util.Arrays;
 
-import org.apache.poi.util.ArrayUtil;
 
 public class joinArrays {
 
