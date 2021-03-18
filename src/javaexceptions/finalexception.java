@@ -1,6 +1,5 @@
 package javaexceptions;
 
-import org.omg.Messaging.SyncScopeHelper;
 
 public class finalexception {
 	public static void main(String[] args) {
