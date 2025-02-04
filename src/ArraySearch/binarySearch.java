@@ -6,7 +6,7 @@ public class binarySearch {
 
 	public static void main(String[] args) {
 		int[] data = { 23, 45, 11, 12, 23, 55, 67, 33, 88 };
-		int searchElement = 45;
+		int searchElement = 65;
 		System.out.println("Is element availablity in array: " + searchedElement(data, searchElement));
 	}
 
