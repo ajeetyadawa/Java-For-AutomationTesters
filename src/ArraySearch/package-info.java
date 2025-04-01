@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author ajit
- *
- */
-package ArraySearch;

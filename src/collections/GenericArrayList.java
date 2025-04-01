@@ -11,7 +11,7 @@ list.add(10);
 list.add(null); // null can be added everywhere in list either list type is Integer or Float
 //list.add(10.25);// As array list is 
 list.get(0);
-int i= list.get(0);
+int i= list.get(1);
 System.out.println(10+i);
 	}
 
